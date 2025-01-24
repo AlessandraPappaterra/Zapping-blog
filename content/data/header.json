@@ -12,7 +12,8 @@
                     "pt-0",
                     "pl-0",
                     "pb-0"
-                ]
+                ],
+                "borderWidth": 2
             }
         },
         "type": "ImageBlock"
